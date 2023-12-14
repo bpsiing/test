@@ -1,1 +1,2 @@
 primer 1
+test reset
